@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\AcunmedyaOdevler\\ConsoleApp2\\ConsoleApp2.csproj": {}
+    "D:\\Github\\AcunmedyaOdev\\ConsoleApp2\\ConsoleApp2.csproj": {}
   },
   "projects": {
-    "D:\\Github\\AcunmedyaOdevler\\ConsoleApp2\\ConsoleApp2.csproj": {
+    "D:\\Github\\AcunmedyaOdev\\ConsoleApp2\\ConsoleApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\AcunmedyaOdevler\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectUniqueName": "D:\\Github\\AcunmedyaOdev\\ConsoleApp2\\ConsoleApp2.csproj",
         "projectName": "ConsoleApp2",
-        "projectPath": "D:\\Github\\AcunmedyaOdevler\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectPath": "D:\\Github\\AcunmedyaOdev\\ConsoleApp2\\ConsoleApp2.csproj",
         "packagesPath": "C:\\Users\\musau\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\AcunmedyaOdevler\\ConsoleApp2\\obj\\",
+        "outputPath": "D:\\Github\\AcunmedyaOdev\\ConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

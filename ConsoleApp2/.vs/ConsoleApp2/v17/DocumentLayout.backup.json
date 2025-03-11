@@ -3,35 +3,12 @@
   "WorkspaceRootPath": "D:\\Github\\AcunmedyaOdevler\\ConsoleApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\AcunmedyaOdevler\\ConsoleApp3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A3F49354-623C-4CCE-B13C-1815F52A1AF9}|ConsoleApp2.csproj|d:\\github\\acunmedyaodevler\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3F49354-623C-4CCE-B13C-1815F52A1AF9}|ConsoleApp2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3F49354-623C-4CCE-B13C-1815F52A1AF9}|ConsoleApp2.csproj|d:\\github\\acunmedyaodevler\\consoleapp2\\odev2\\genelmudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3F49354-623C-4CCE-B13C-1815F52A1AF9}|ConsoleApp2.csproj|solutionrelative:odev2\\genelmudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3F49354-623C-4CCE-B13C-1815F52A1AF9}|ConsoleApp2.csproj|d:\\github\\acunmedyaodevler\\consoleapp2\\odev2\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3F49354-623C-4CCE-B13C-1815F52A1AF9}|ConsoleApp2.csproj|solutionrelative:odev2\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3F49354-623C-4CCE-B13C-1815F52A1AF9}|ConsoleApp2.csproj|d:\\github\\acunmedyaodevler\\consoleapp2\\odev2\\imaas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3F49354-623C-4CCE-B13C-1815F52A1AF9}|ConsoleApp2.csproj|solutionrelative:odev2\\imaas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3F49354-623C-4CCE-B13C-1815F52A1AF9}|ConsoleApp2.csproj|d:\\github\\acunmedyaodevler\\consoleapp2\\odev1\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3F49354-623C-4CCE-B13C-1815F52A1AF9}|ConsoleApp2.csproj|solutionrelative:odev1\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3F49354-623C-4CCE-B13C-1815F52A1AF9}|ConsoleApp2.csproj|d:\\github\\acunmedyaodevler\\consoleapp2\\odev1\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3F49354-623C-4CCE-B13C-1815F52A1AF9}|ConsoleApp2.csproj|solutionrelative:odev1\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3F49354-623C-4CCE-B13C-1815F52A1AF9}|ConsoleApp2.csproj|d:\\github\\acunmedyaodevler\\consoleapp2\\odev1\\iucar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3F49354-623C-4CCE-B13C-1815F52A1AF9}|ConsoleApp2.csproj|solutionrelative:odev1\\iucar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3F49354-623C-4CCE-B13C-1815F52A1AF9}|ConsoleApp2.csproj|d:\\github\\acunmedyaodevler\\consoleapp2\\erisimbelirleyiciler\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F49354-623C-4CCE-B13C-1815F52A1AF9}|ConsoleApp2.csproj|solutionrelative:erisimbelirleyiciler\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,98 +24,27 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Github\\AcunmedyaOdevler\\ConsoleApp3\\Program.cs",
-              "RelativeDocumentMoniker": "..\\ConsoleApp3\\Program.cs",
-              "ToolTip": "D:\\Github\\AcunmedyaOdevler\\ConsoleApp3\\Program.cs",
-              "RelativeToolTip": "..\\ConsoleApp3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T13:15:33.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GenelMudur.cs",
-              "DocumentMoniker": "D:\\Github\\AcunmedyaOdevler\\ConsoleApp2\\Odev2\\GenelMudur.cs",
-              "RelativeDocumentMoniker": "Odev2\\GenelMudur.cs",
-              "ToolTip": "D:\\Github\\AcunmedyaOdevler\\ConsoleApp2\\Odev2\\GenelMudur.cs",
-              "RelativeToolTip": "Odev2\\GenelMudur.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T13:09:28.738Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IMaas.cs",
-              "DocumentMoniker": "D:\\Github\\AcunmedyaOdevler\\ConsoleApp2\\Odev2\\IMaas.cs",
-              "RelativeDocumentMoniker": "Odev2\\IMaas.cs",
-              "ToolTip": "D:\\Github\\AcunmedyaOdevler\\ConsoleApp2\\Odev2\\IMaas.cs",
-              "RelativeToolTip": "Odev2\\IMaas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T13:04:20.313Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Calisan.cs",
-              "DocumentMoniker": "D:\\Github\\AcunmedyaOdevler\\ConsoleApp2\\Odev2\\Calisan.cs",
-              "RelativeDocumentMoniker": "Odev2\\Calisan.cs",
-              "ToolTip": "D:\\Github\\AcunmedyaOdevler\\ConsoleApp2\\Odev2\\Calisan.cs",
-              "RelativeToolTip": "Odev2\\Calisan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T13:04:08.531Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Porsche.cs",
-              "DocumentMoniker": "D:\\Github\\AcunmedyaOdevler\\ConsoleApp2\\Odev1\\Porsche.cs",
-              "RelativeDocumentMoniker": "Odev1\\Porsche.cs",
-              "ToolTip": "D:\\Github\\AcunmedyaOdevler\\ConsoleApp2\\Odev1\\Porsche.cs",
-              "RelativeToolTip": "Odev1\\Porsche.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T13:03:34.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Bmw.cs",
-              "DocumentMoniker": "D:\\Github\\AcunmedyaOdevler\\ConsoleApp2\\Odev1\\Bmw.cs",
-              "RelativeDocumentMoniker": "Odev1\\Bmw.cs",
-              "ToolTip": "D:\\Github\\AcunmedyaOdevler\\ConsoleApp2\\Odev1\\Bmw.cs",
-              "RelativeToolTip": "Odev1\\Bmw.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T12:57:00.905Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IUcar.cs",
-              "DocumentMoniker": "D:\\Github\\AcunmedyaOdevler\\ConsoleApp2\\Odev1\\IUcar.cs",
-              "RelativeDocumentMoniker": "Odev1\\IUcar.cs",
-              "ToolTip": "D:\\Github\\AcunmedyaOdevler\\ConsoleApp2\\Odev1\\IUcar.cs",
-              "RelativeToolTip": "Odev1\\IUcar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T12:55:26.475Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\AcunmedyaOdevler\\ConsoleApp2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Github\\AcunmedyaOdevler\\ConsoleApp2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T16:49:10.747Z"
+              "WhenOpened": "2025-03-11T16:43:12.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Github\\AcunmedyaOdevler\\ConsoleApp2\\ErisimBelirleyiciler\\User.cs",
+              "RelativeDocumentMoniker": "ErisimBelirleyiciler\\User.cs",
+              "ToolTip": "D:\\Github\\AcunmedyaOdevler\\ConsoleApp2\\ErisimBelirleyiciler\\User.cs",
+              "RelativeToolTip": "ErisimBelirleyiciler\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:37:59.144Z",
+              "EditorCaption": ""
             }
           ]
         }
