@@ -1,0 +1,15 @@
+D:\Github\AcunmedyaOdevler\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.exe
+D:\Github\AcunmedyaOdevler\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.deps.json
+D:\Github\AcunmedyaOdevler\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.runtimeconfig.json
+D:\Github\AcunmedyaOdevler\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.dll
+D:\Github\AcunmedyaOdevler\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.pdb
+D:\Github\AcunmedyaOdevler\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\AcunmedyaOdevler\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\Github\AcunmedyaOdevler\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.AssemblyInfo.cs
+D:\Github\AcunmedyaOdevler\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Github\AcunmedyaOdevler\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.sourcelink.json
+D:\Github\AcunmedyaOdevler\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.dll
+D:\Github\AcunmedyaOdevler\ConsoleApp2\obj\Debug\net9.0\refint\ConsoleApp2.dll
+D:\Github\AcunmedyaOdevler\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.pdb
+D:\Github\AcunmedyaOdevler\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.genruntimeconfig.cache
+D:\Github\AcunmedyaOdevler\ConsoleApp2\obj\Debug\net9.0\ref\ConsoleApp2.dll
